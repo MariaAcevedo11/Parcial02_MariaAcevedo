@@ -21,4 +21,4 @@ El otro servicio tendría que importar un request para recibir los datos y guard
 
 Esto permite separar responsabilidades: uno calcula, el otro almacena. Y si hace falta, usaría Docker para empaquetar todo.
 
-:D"# Parcial02_MariaAcevedo" 
+:D
