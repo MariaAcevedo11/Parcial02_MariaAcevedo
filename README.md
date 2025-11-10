@@ -24,3 +24,5 @@ Ambos microservicios podrían coordinarse mediante Docker Compose, lo que permit
 
 Este enfoque separa responsabilidades: un servicio se encarga del cálculo, mientras que el otro maneja el almacenamiento y el historial.
 Si fuera necesario, empaquetaría ambos servicios con Docker para facilitar su despliegue y portabilidad.
+
+:D Profe muchas gracias por todo, eres un tierno, que le vaya muy bien 
